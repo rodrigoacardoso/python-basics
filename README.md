@@ -1,2 +1,2 @@
 # python-basics
-Simple python exercises
+This repository contains small simple python scripts i made to practice.
