@@ -7,3 +7,4 @@ This repository contains small simple python scripts i made to practice.
 3 - Is it prime?
 4 - Password Generator
 5 - Shopping List Manager
+6 - Shopping List Manager again but using funcions (learning how they work)
