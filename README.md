@@ -6,3 +6,4 @@ This repository contains small simple python scripts i made to practice.
 2 - Simple calculator
 3 - Is it prime?
 4 - Password Generator
+5 - Shopping List Manager
